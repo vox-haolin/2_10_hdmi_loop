@@ -1,0 +1,29 @@
+﻿{
+    "Status":  "failed",
+    "StartedAtUTC":  "2026-11-03T16:53:54.7465788Z",
+    "PdsBin":  "C:\\pango\\PDS_2022.2-SP6.4\\bin",
+    "Workspace":  "C:\\Users\\liu\\AppData\\Local\\PangoWorkspaces\\hdmi_loop_build_32a3a4f8c49c47fbbd324d3ec26db9fc",
+    "Inputs":  {
+                   "hdmi_loop.pds":  "554C5D393EF16BC2224AD84DD113EFA0C221A040AC69C8BB9C95D02DDD162C51",
+                   "hdmi_loop.fdc":  "86C598CE26F595B108435A0E706C4D394F8CB7E9AD7A2DD6641CD14CB275B341",
+                   "ipcore/PLL/PLL.idf":  "8D3A8F8CA409A6A76130FC2E1FD027BF529A544276C1A04EEF1BEC7B69FE4581",
+                   "ipcore/PLL/PLL.v":  "99CB7E9B90A6F19A9F1BFECD15434F0C15DB47B0EF6D5D36E9D22901B76D5023",
+                   "source/adas_control.v":  "95E2A6D38486DDAC20C14AA972640434E5E747D5B18B83617C1BFEB8180007C8",
+                   "source/adas_osd.v":  "6FE7493549191169B9BB045B555A9867713B7834334865BC094B2C57A8915092",
+                   "source/adas_video_proc.v":  "6F1351C7A527367BFE8B317532AC44D9E19D1476B9D941F7BEE2D6E7511575FE",
+                   "source/command_cdc.v":  "6D23100CEB0E983AF36F1A0FFF4A19DEDC7C90F4B1CCE46E812FF34876A736EA",
+                   "source/driving_policy.v":  "0E079C3CAF86D01DF4843704F84A721AFA4A6995D9106D4A3F0B3D9D1B915D7F",
+                   "source/driving_status_osd.v":  "62A3563733952C363B7EBABE963C9BF2967E0DC96F8FAA5FB422C6220232D288",
+                   "source/hdmi_loop.v":  "D8F90B768523C784523773C363D25D44CD95A3032C71BCC49721AD06687B909F",
+                   "source/iic_dri.v":  "5F60BC8BCAC110F0125A278C332065D2594874C465EC961C603662F92C16B13E",
+                   "source/lane_detector.v":  "454E44C1B38A4193520F927172602DC670AAC05BDCEBD03CFFA0428997EC8FB8",
+                   "source/ms7200_ctl.v":  "501521C4CCEECD48DE5741D3116EB7062C93A70A606A386682E1D8756A494199",
+                   "source/ms7210_ctl.v":  "C9B101E58F381DDF3C6D663D0003C18065302659424B8345022161413CCF09AE",
+                   "source/ms72xx_ctl.v":  "DF3876BC1A3BF3A7EFE7ADEED56B2F9625AF4AC9BA56074925671F49751CF69A",
+                   "source/navigation_detector.v":  "6957EAA7A3B6E323B2A2B82E7F8F3A2B73FC2A3B94B447E8290C41CA23B54B34",
+                   "source/traffic_light_detector.v":  "6165B2CCFC6062995B7B8FAC750A5B6AFDA8B2D94C94BCD3CABB8B2879A0A02C"
+               },
+    "Evidence":  "C:\\Users\\liu\\Desktop\\第四版-以技术文档为蓝本\\2_10_hdmi_loop\\build_evidence\\hdmi_loop_build_32a3a4f8c49c47fbbd324d3ec26db9fc",
+    "Error":  "PDS license expired. Install a valid license for this computer, then rebuild. No new bitstream was published. Inspect C:\\Users\\liu\\AppData\\Local\\PangoWorkspaces\\hdmi_loop_build_32a3a4f8c49c47fbbd324d3ec26db9fc\\contest_build.log",
+    "FinishedAtUTC":  "2026-11-03T16:53:55.3743580Z"
+}

@@ -1,0 +1,14 @@
+[2026.10.28 09:55:15] : cfg_assign_file succeed, 0.0
+[2026.10.28 09:55:16] : cfg_program succeed, 0.4
+[2026.10.28 09:55:17] : cfg_jtag_flash_scan_device succeed, 1.0
+[2026.10.28 09:55:18] : cfg_jtag_flash_assign_file succeed, 0.0
+[2026.10.28 09:55:25] : cfg_jtag_flash_erase succeed, 7.2
+[2026.10.28 09:55:58] : cfg_jtag_flash_program succeed, 32.2
+[2026.10.28 09:56:01] : cfg_jtag_flash_verify succeed, 2.3
+[2026.10.28 09:56:02] : cfg_assign_file succeed, 0.0
+[2026.10.28 09:56:02] : cfg_program succeed, 0.4
+[2026.10.28 09:56:04] : cfg_jtag_flash_scan_device succeed, 1.0
+[2026.10.28 09:56:05] : cfg_jtag_flash_assign_file succeed, 0.0
+[2026.10.28 09:56:12] : cfg_jtag_flash_erase succeed, 7.0
+[2026.10.28 09:56:45] : cfg_jtag_flash_program succeed, 32.3
+[2026.10.28 09:56:48] : cfg_jtag_flash_verify succeed, 2.3

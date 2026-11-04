@@ -1,0 +1,6 @@
+PDS tools: C:\pango\PDS_2022.2-SP6.4\bin
+Project: C:\Users\liu\Desktop\第二版\2_10_hdmi_loop
+Bitstream: C:\Users\liu\Desktop\第二版\2_10_hdmi_loop\generate_bitstream\hdmi_loop.sbit
+PDS workspace: C:\Users\liu\AppData\Local\PangoWorkspaces\hdmi_loop_probe_43775a4358774caf883f7e3b2acd53f8
+PDS_PROGRAM_PATHS_OK: 3791112 bytes
+Preflight passed: PDS can read the staged bitstream. JTAG programming was not requested.

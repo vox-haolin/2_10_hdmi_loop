@@ -1,0 +1,6 @@
+PDS tools: C:\pango\PDS_2022.2-SP6.4\bin
+Project: C:\Users\liu\Desktop\第二版\2_10_hdmi_loop
+PDS workspace: C:\Users\liu\AppData\Local\PangoWorkspaces\hdmi_loop_build_440bd813ccfb4ac2bd62692b6cdbda8c
+SUCCESS: current-source bitstream generated; internal timing passed.
+Bitstream: C:\Users\liu\Desktop\第二版\2_10_hdmi_loop\generate_bitstream\hdmi_loop.sbit
+No hardware was accessed. External HDMI timing still requires board validation.

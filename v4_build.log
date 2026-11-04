@@ -1,0 +1,4 @@
+PDS tools: C:\pango\PDS_2022.2-SP6.4\bin
+Project: C:\Users\liu\Desktop\第四版-以技术文档为蓝本\2_10_hdmi_loop
+PDS workspace: C:\Users\liu\AppData\Local\PangoWorkspaces\hdmi_loop_build_6284b22028c44d0eae2cff5fc0b66faa
+ERROR: Design changed during build: source/traffic_light_detector.v. No new bitstream published; rebuild.

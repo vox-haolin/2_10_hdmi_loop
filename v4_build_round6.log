@@ -1,0 +1,4 @@
+PDS tools: C:\pango\PDS_2022.2-SP6.4\bin
+Project: C:\Users\liu\Desktop\第四版-以技术文档为蓝本\2_10_hdmi_loop
+PDS workspace: C:\Users\liu\AppData\Local\PangoWorkspaces\hdmi_loop_build_d81a8fd8e7324b6aac34b3debcb96b07
+ERROR: Internal timing did not pass. Inspect report_timing/hdmi_loop.rtr. External HDMI timing requires separate validation.
